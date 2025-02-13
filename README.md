@@ -12,7 +12,8 @@ DeepENF is evaluated using benchmark audio recordings from the ENF-WHU dataset, 
 
 ## Usage
 ### 1. Repository preparation 
-Clone the repository, extract the files from [here](https://drive.google.com/file/d/1l1AF3JNrQE-7KJXyE9YYLcZr86DX8M5g/view?usp=sharing), [here](https://drive.google.com/file/d/1A2P1HR7MZfc3IcAcCPWQzOt9DjweB74r/view?usp=sharing), and [here](https://drive.google.com/file/d/1iJCyY_szLTj4gVFpDUWenq4LjtWkmNJS/view?usp=sharing) in the folders `/DeepENF/experiments/` and `/DeepENF/Data/`. The folders should have the structure
+Clone the repository, extract the files from [here](https://drive.google.com/file/d/1l1AF3JNrQE-7KJXyE9YYLcZr86DX8M5g/view?usp=sharing), 
+[here](https://drive.google.com/file/d/1A2P1HR7MZfc3IcAcCPWQzOt9DjweB74r/view?usp=sharing), and [here](https://drive.google.com/file/d/1iJCyY_szLTj4gVFpDUWenq4LjtWkmNJS/view?usp=sharing) in the folders `/DeepENF/experiments/` and `/DeepENF/Data/`. The folders should have the structure:
 
 ```angular2html
 ├── Code
@@ -29,8 +30,8 @@ Clone the repository, extract the files from [here](https://drive.google.com/fil
 The requirements are in the *requirements.txt* file.
 
 ### 3. Download datasets
-You can download the ENF-WHU-Dataset from [here](https://github.com/ghua-ac/ENF-WHU-Dataset) and extracted to 
-the folder `DeepENF/Data/Hua`. The folders should have the structure
+You can download the ENF-WHU-Dataset from [here](https://github.com/ghua-ac/ENF-WHU-Dataset) and extract it to 
+folder `DeepENF/Data/Hua`. The folders should have the structure:
 
 ```angular2html
 └── Hua
